@@ -1,0 +1,10 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: EdgeINSRSA_WMIO_PROJECT_A
+  gitServerName: INSRSA_GIT
+  gitUrl: https://github.com/chini007/EdgeINSRSA_WMIO_PROJECT_A
+  gitUsername: chini007
+  gitToken: edge.scaffolding.EdgeINSRSA_WMIO_PROJECT_A.INSRSA_GIT.gitToken
+  gitBranch: master
